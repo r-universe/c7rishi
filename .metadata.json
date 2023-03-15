@@ -1,10 +1,10 @@
 [
   {
-    "package": "BAMBI",
+    "package": "pvLRT",
     "oncran": true
   },
   {
-    "package": "pvLRT",
+    "package": "BAMBI",
     "oncran": true
   }
 ]
