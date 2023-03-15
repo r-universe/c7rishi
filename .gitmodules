@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "pvLRT"]
-	path = pvLRT
-	url = https://github.com/c7rishi/pvlrt
-	shallow = true
-	registered = true
 [submodule "BAMBI"]
 	path = BAMBI
 	url = https://github.com/c7rishi/bambi
+	shallow = true
+	registered = true
+[submodule "pvLRT"]
+	path = pvLRT
+	url = https://github.com/c7rishi/pvlrt
 	shallow = true
 	registered = true
